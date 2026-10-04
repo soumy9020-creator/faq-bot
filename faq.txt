@@ -2,3 +2,9 @@ how to reset password|Login page par Forgot Password par click karo.
 how to contact support|support@example.com par email bhejo.
 what are your timings|Hum Monday se Friday, 9 se 6 khule rehte hain.
 how to cancel order|My Orders mein jaao aur Cancel dabao.
+what payment methods accepted|Hum card, UPI aur net banking lete hain.
+how to change password|Settings mein Security par jaake Change Password dabao.
+how to update address|Profile mein Addresses par jaake apna address badlo.
+why payment failed|Bank se check karo ya doosra payment method try karo.
+how to download invoice|My Orders mein order kholo aur Download Invoice dabao.
+how to talk to human|support@example.com par email bhejo, hum 24 ghante mein jawab denge.
